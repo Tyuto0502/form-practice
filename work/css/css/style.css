@@ -93,7 +93,7 @@ input, select, button {
   content: "";
   position: absolute;
   width: 5px;
-  height: 5%;
+  height: 5px;
   right: 10px;
   top: 45%;
   display: inline-block;
